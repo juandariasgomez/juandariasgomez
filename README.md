@@ -1,6 +1,6 @@
 ## Hi, I'm Juan David 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-david-arias-gomez-983785176)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
 
 ## Tools and technologies
 
