@@ -30,6 +30,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=continuous-integration&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
@@ -46,5 +47,5 @@ Electronics Engineer specializing in automation, microservices, QA automation, D
 ---
 
 ## 📫 Contact
-📧 **juandariasgomez@gmail.com**  
-🔗 **LinkedIn:** /juan-david-arias-gomez-983785176
+📧 **Email:** [juandariasgomez@gmail.com](mailto:juandariasgomez@gmail.com)  
+🔗 **LinkedIn:** [juan-david-arias-gomez-983785176](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
