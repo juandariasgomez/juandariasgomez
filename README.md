@@ -6,6 +6,11 @@
 
 ---
 
+## 🧩 About Me
+Electronics Engineer specializing in automation, microservices, QA automation, DevOps practices, CI/CD pipelines, and cloud-native technologies—focused on delivering scalable and reliable software solutions.
+
+---
+
 ## ⚙️ Tech Stack
 
 ---
@@ -33,11 +38,6 @@
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-78C143?style=for-the-badge&logo=database&logoColor=white)
-
----
-
-## 🧩 About Me
-Electronics Engineer specializing in automation, microservices, QA automation, DevOps practices, CI/CD pipelines, and cloud-native technologies—focused on delivering scalable and reliable software solutions.
 
 ---
 
