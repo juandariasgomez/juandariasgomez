@@ -8,12 +8,6 @@
 
 ## ⚙️ Tech Stack
 
-### 🔍 QA Automation
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-00A8E0?style=for-the-badge&logo=testrail&logoColor=white)
-
 ---
 
 ### 🖥️ Programming Languages
