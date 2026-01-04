@@ -35,6 +35,15 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-78C143?style=for-the-badge&logo=database&logoColor=white)
 
 ---
+## Useful Step by step guides
+
+Here you will find documentation in that explains step by step setup and operations to different topics related to DevOps and others.
+
+### DevOps guides
+
+1. **[CI/CD Cycle Using Jenkins and ArgoCD in a Kubernetes Environment](https://github.com/juancamilocc/virtual_resources/wiki/configuration-cycle-cicd)**
+
+---
 
 ## 🧩 About Me
 Electronics Engineer specializing in automation, microservices, QA automation, DevOps practices, CI/CD pipelines, and cloud-native technologies—focused on delivering scalable and reliable software solutions.
