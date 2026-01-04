@@ -35,6 +35,12 @@
 ![NoSQL](https://img.shields.io/badge/NoSQL-78C143?style=for-the-badge&logo=database&logoColor=white)
 
 ---
+
+## 🧩 About Me
+Electronics Engineer specializing in automation, microservices, QA automation, DevOps practices, CI/CD pipelines, and cloud-native technologies—focused on delivering scalable and reliable software solutions.
+
+---
+
 ## Useful Step by step guides
 
 Here you will find documentation in that explains step by step setup and operations to different topics related to DevOps and others.
@@ -59,11 +65,6 @@ Here you will find documentation in that explains step by step setup and operati
 16. **[Launch ephemeral EC2 Agents using Jenkins and Terraform](https://github.com/juancamilocc/virtual_resources/wiki/launch-ephemeral-jenkins-agents)**
 17. **[Manage Dashboards in Kibana Using Spaces](https://github.com/juancamilocc/virtual_resources/wiki/spaces-kibana-dashboards)**
 18. **[Cleanup Pods Maintenance Task](https://github.com/juancamilocc/virtual_resources/wiki/mantainance-task-pods)**
-
----
-
-## 🧩 About Me
-Electronics Engineer specializing in automation, microservices, QA automation, DevOps practices, CI/CD pipelines, and cloud-native technologies—focused on delivering scalable and reliable software solutions.
 
 ---
 
