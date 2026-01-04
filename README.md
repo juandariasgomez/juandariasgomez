@@ -1,5 +1,5 @@
 # 🎯 Juan David Arias Gómez
-### Electronics Engineer | QA Automation | DevOps | Cloud | Microservices
+### Electronics Engineer | DevOps | Cloud | Microservices
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandariasgomez@gmail.com)
