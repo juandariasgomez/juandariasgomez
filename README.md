@@ -68,6 +68,12 @@ Here you will find documentation in that explains step by step setup and operati
 
 ---
 
+## Other projects
+1. **[CI/CD Cycle Using GitHub Actions](https://github.com/juandariasgomez/turnos-system.git)**
+2. **[IaC_AWS_Terraform](https://github.com/juandariasgomez/IaC_AWS_Terraform.git)**
+
+---
+
 ## 📫 Contact
 📧 **Email:** [juandariasgomez@gmail.com](mailto:juandariasgomez@gmail.com)  
 🔗 **LinkedIn:** [juan-david-arias-gomez-983785176](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
