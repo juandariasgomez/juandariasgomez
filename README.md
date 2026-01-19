@@ -7,7 +7,7 @@
 ---
 
 ## 🧩 About Me
-Electronics Engineer specializing in automation, microservices, QA automation, DevOps practices, CI/CD pipelines, and cloud-native technologies—focused on delivering scalable and reliable software solutions.
+Electronics Engineer specializing in DevOps practices, CI/CD pipelines, microservices  and cloud-native technologies—focused on delivering scalable and reliable software solutions.
 
 ---
 
