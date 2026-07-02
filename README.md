@@ -1,5 +1,5 @@
 # 🎯 Juan David Arias Gómez
-### Electronics Engineer | DevOps | Cloud | Microservices
+### Cloud & DevOps Engineer | Kubernetes | Terraform | Google Cloud | AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandariasgomez@gmail.com)
@@ -7,7 +7,10 @@
 ---
 
 ## 🧩 About Me
-Electronics Engineer specializing in DevOps practices, CI/CD pipelines, microservices  and cloud-native technologies—focused on delivering scalable and reliable software solutions.
+
+DevOps Engineer with hands-on experience designing, automating, and deploying cloud-native infrastructure across Google Cloud Platform (GCP) and AWS.
+
+Passionate about Infrastructure as Code, Kubernetes, CI/CD, cloud automation, observability, and DevSecOps. I enjoy building scalable, secure, and reliable platforms while documenting best practices through open-source projects and technical guides.
 
 ---
 
@@ -39,6 +42,22 @@ Electronics Engineer specializing in DevOps practices, CI/CD pipelines, microser
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-78C143?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+# ☁️ Google Cloud Skill Badges
+
+🏅 Build Infrastructure with Terraform on Google Cloud
+
+🏅 Deploy Kubernetes Applications on Google Cloud
+
+🏅 Optimize Costs for Google Kubernetes Engine
+
+🏅 Monitor and Log with Google Cloud Observability
+
+🏅 Google Kubernetes Engine Best Practices: Security
+
+View all credentials on my LinkedIn profile.
 
 ---
 
