@@ -1,5 +1,5 @@
 # 🎯 Juan David Arias Gómez
-### Cloud & DevOps Engineer | Kubernetes | Terraform | Google Cloud | AWS
+### Cloud & DevOps Engineer | Kubernetes | Terraform | Google Cloud Platform | AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-arias-gomez-983785176/)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandariasgomez@gmail.com)
